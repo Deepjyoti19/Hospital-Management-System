@@ -13,7 +13,7 @@ Responsive UI: Accessible on various devices with a user-friendly interface.
 Data Security: Implements JWT and role-based access control for data privacy.
 
 Technologies Used:-
-Frontend: React.js, CSS, Bootstrap (or any other CSS framework if applicable)
+Frontend: React.js, CSS, Tailwind
 Backend: Node.js, Express.js
 Database: MongoDB (using Mongoose for schema modeling)
 Authentication: JSON Web Tokens (JWT) for secure access control
@@ -21,7 +21,7 @@ Authentication: JSON Web Tokens (JWT) for secure access control
 
 Prerequisites:-
 Node.js (version 14+)
-MongoDB (either local instance or cloud-based, such as MongoDB Atlas)
+MongoDB 
 
 Usage:-
 Admin:
