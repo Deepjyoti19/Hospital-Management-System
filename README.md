@@ -1,22 +1,22 @@
-Hospital Management System:-
-A full-stack Hospital Management System built with the MERN stack (MongoDB, Express.js, React, Node.js). This application streamlines patient and doctor management, appointment scheduling, and administrative tasks within a healthcare facility. With robust user authentication and role-based access, it ensures that sensitive information remains secure and only accessible to authorized users.
+Hospital Management System:-<br>
+A full-stack Hospital Management System built with the MERN stack (MongoDB, Express.js, React, Node.js). This application streamlines patient and doctor management, appointment scheduling, and administrative tasks within a healthcare facility. With robust user authentication and role-based access, it ensures that sensitive information remains secure and only accessible to authorized users.<br>
 
-Features:-
-User Authentication and Authorization:
-Admin: Manages doctors, appointments, and user accounts.
-Doctor: Manages their appointments and views patient details.
-Patient/User: Books appointments with doctors and views appointment history.
-Appointment Scheduling:
-Patients can view doctor availability and book, update, or cancel appointments.
-Messaging System: Users can send messages to the admin for inquiries or assistance.
-Responsive UI: Accessible on various devices with a user-friendly interface.
-Data Security: Implements JWT and role-based access control for data privacy.
+Features:-<br>
+User Authentication and Authorization:<br>
+Admin: Manages doctors, appointments, and user accounts.<br>
+Doctor: Manages their appointments and views patient details.<br>
+Patient/User: Books appointments with doctors and views appointment history.<br>
+Appointment Scheduling:<br>
+Patients can view doctor availability and book, update, or cancel appointments.<br>
+Messaging System: Users can send messages to the admin for inquiries or assistance.<br>
+Responsive UI: Accessible on various devices with a user-friendly interface.<br>
+Data Security: Implements JWT and role-based access control for data privacy.<br>
 
-Technologies Used:-
-Frontend: React.js, CSS, Tailwind
-Backend: Node.js, Express.js
-Database: MongoDB (using Mongoose for schema modeling)
-Authentication: JSON Web Tokens (JWT) for secure access control
+Technologies Used:-<br>
+Frontend: React.js, CSS, Tailwind<br>
+Backend: Node.js, Express.js<br>
+Database: MongoDB (using Mongoose for schema modeling)<br>
+Authentication: JSON Web Tokens (JWT) for secure access control<br>
 
 
 Prerequisites:-
