@@ -23,10 +23,10 @@ Prerequisites:-
 Node.js (version 14+)
 MongoDB 
 
-Usage:-
-Admin:
-Manages doctor profiles, approves or rejects doctor registration requests, and oversees all user and appointment data.
-Doctor:
-Views upcoming appointments, manages personal information, and reviews patient appointment histories.
-Patient/User:
-Books appointments, views upcoming appointments, and interacts with hospital staff.
+Usage:-<br>
+Admin:<br>
+Manages doctor profiles, approves or rejects doctor registration requests, and oversees all user and appointment data.<br>
+Doctor:<br>
+Views upcoming appointments, manages personal information, and reviews patient appointment histories.<br>
+Patient/User:<br>
+Books appointments, views upcoming appointments, and interacts with hospital staff.<br>
